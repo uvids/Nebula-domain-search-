@@ -1,4 +1,3 @@
-
 import { useMemo, useState } from 'react'
 import {
   Search,
@@ -19,10 +18,7 @@ import {
   WandSparkles,
   SlidersHorizontal,
   ChevronDown,
-  RotateCcw,
-  ExternalLink,
   Lightbulb,
-  TrendingUp,
   CircleHelp
 } from 'lucide-react'
 
